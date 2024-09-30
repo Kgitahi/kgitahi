@@ -1,8 +1,7 @@
-# 💁‍♀️ Welcome! I'm Karen Wanjiru Gitahi Kagure 👋
+# 💁‍♀️ Welcome! I'm Karen Wanjiru Kagure Gitahi 👋
+![My Picture](https://github.com/user-attachments/assets/82f6114a-fb28-436d-b7e9-97c64dae2067)
 
-<img src="./images/my-picture.png" alt="Karen Kagure" width="200" align="left" style="border-radius: 50%; margin-right: 20px;" />
-
-Hi there! I'm a **data-driven business analyst** with a passion for solving complex problems, optimizing processes, and visualizing data. I love turning numbers into insights and creating compelling stories through data. My experience spans across various tools and platforms, and I enjoy learning new things every day!
+I'm a **data-driven business analyst** with a passion for solving complex problems, optimizing processes, and visualizing data. I love turning numbers into insights and creating compelling stories through data. My experience spans across various tools and platforms, and I enjoy learning new things every day!
 
 ---
 
