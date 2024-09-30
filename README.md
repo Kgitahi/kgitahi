@@ -1,4 +1,4 @@
-# 💁‍♀️ Welcome! I'm Karen Wanjiru Kagure Gitahi 👋
+# 💁🏾‍♀️ Welcome! I'm Karen Wanjiru Kagure Gitahi 👋
 <img src="https://github.com/user-attachments/assets/82f6114a-fb28-436d-b7e9-97c64dae2067" alt="My Picture" width="900"/>
 
 I'm a **data-driven business analyst** with a passion for solving complex problems, optimizing processes, and visualizing data. I love turning numbers into insights and creating compelling stories through data. My experience spans across various tools and platforms, and I enjoy learning new things every day!
@@ -31,6 +31,11 @@ I'm a **data-driven business analyst** with a passion for solving complex proble
    Developed and optimized databases for a small business to streamline operations, improve data integrity, and boost performance.
    <img src="https://www.dbdesigner.net/wp-content/uploads/2019/07/Adding-Table-Notes-Database-Design-DBDesigner.gif" alt="SQL Database Design" width="400"/>
    [View Project](link-to-database-project)
+
+4. **Strategic Buyout Proposal for Amadeus Global Travel: Team Challenge**:
+   I collaborated with a team of four to analyze the potential leveraged buyout (LBO) of Amadeus Global Travel Distribution by BC Partners. My role was to lead the financial analysis, where I evaluated two strategies—geographical expansion and repositioning as an IT solutions provider—using metrics such as revenue growth and profitability. Based on my analysis, I recommended the IT solutions strategy, which projected a 26.40% Internal Rate of Return (IRR) and an increase in revenue by €409 million over six years, helping BC Partners maximize their investment.
+
+   [View Full Project](https://docs.google.com/document/d/1piTJK2flncOWeny-Urnv0u-s2FzjGP6RwK1dQNPOMvw/edit?usp=sharing)
 
 ---
 
