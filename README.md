@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Karen Wanjiru Gitahi Kagure!
+# 👋 Hi, I'm Karen Wanjiru Kagure Gitahi!
 
-Welcome to my GitHub! I'm a data-driven business analyst with a passion for solving complex problems, optimizing processes, and visualizing data. I enjoy working across multiple tools and platforms to turn data into actionable insights.
+Welcome to my GitHub portfolio! I'm a data-driven business analyst with a passion for solving complex problems, optimizing processes, and visualizing data. I enjoy working across multiple tools and platforms to turn data into actionable insights.
 
 ## 🔧 Technical Skills
 
@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a data-driven business analyst with a passion for solv
 
 3. **[SQL Database Design](#)**:
    Developed and optimized databases for a small business to streamline operations, improving data integrity and access speed.
-   ![SQL Database Design](./images/sql-database-design.png)
+   ![SQL Database Design]([./images/sql-database-design.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dbdesigner.net%2Ffeatures%2F&psig=AOvVaw3DKt1pnmLFbvmPywjben_Y&ust=1727818383357000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJD8-KDP64gDFQAAAAAdAAAAABAE))
    [View Project](link-to-database-project)
 
 ### 💼 Business & Process Optimization
