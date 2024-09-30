@@ -61,7 +61,7 @@ I'm a **data-driven business analyst** with a passion for solving complex proble
 ---
 
 ## 📬 Let’s Connect!
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com)
+- **LinkedIn**: <a href="https://www.linkedin.com/in/karen-wanjiru-kagure-gitahi-0843a172/" target="_blank">Karen Wanjiru Kagure Gitahi</a>
 - **Portfolio**: [Link to your portfolio if you have one]
 - **Email**: [Your Email Address]
 
