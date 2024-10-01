@@ -73,7 +73,7 @@ I'm a **data-driven business analyst** with a passion for solving complex proble
 ## 📬 Let’s Connect!
 - **LinkedIn**: <a href="https://www.linkedin.com/in/karen-wanjiru-kagure-gitahi-0843a172/" target="_blank">Karen Wanjiru Kagure Gitahi</a>
 - **Portfolio**: <a href="https://github.com/Kgitahi/karengitahi.github.io" target="_blank">Link to my portfolio</a>
-- **Resume**: [![Resume](https://img.shields.io/badge/Resume-View%20Here-blue)](https://drive.google.com/file/d/1YSHM6V_LKZqt8l3AjLdhqkWvt7MeLZ7r/view?usp=drive_link)
 - **Email**: [karengitahi99@gmail.com](mailto:karengitahi99@gmail.com)
+- **Resume**: [![Resume](https://img.shields.io/badge/Resume-View%20Here-blue)](https://drive.google.com/file/d/1YSHM6V_LKZqt8l3AjLdhqkWvt7MeLZ7r/view?usp=drive_link)
 
 Thanks for visiting my GitHub! 🌸
