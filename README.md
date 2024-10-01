@@ -20,8 +20,8 @@ I'm a **data-driven business analyst** with a passion for solving complex proble
 1. **[NYC Capital Budgetting Analysis](#)** (Python, Excel):
    I analyzed a New York City budget dataset by cleaning, transforming, and visualizing over 11,000 data entries, identifying trends across four fiscal years and five major funding types. This resulted in uncovering that over 60% of projects were funded by non-exempt city sources, helping optimize future budget planning by highlighting funding allocation patterns.
 
- <img src="https://github.com/user-attachments/assets/2fb232bb-dd59-454b-ba65-6ea6c76d5333" alt="Customer Analysis" width="500"/>
-
+   <img src="https://github.com/user-attachments/assets/2fb232bb-dd59-454b-ba65-6ea6c76d5333" alt="Customer Analysis" width="500"/>
+ 
    [View Project](link-to-project)
 
 1. **[Sales Performance Dashboard](#)** (Tableau):
