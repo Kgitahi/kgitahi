@@ -17,19 +17,23 @@ I'm a **data-driven business analyst** with a passion for solving complex proble
 
 ## 📊 Projects I’m Proud Of
 
-1. **[Customer Segmentation Analysis](#)** (Python, Excel):
-   I analyzed customer data using K-Means clustering and visualized the results in Excel and Tableau.
-   ![Customer Segmentation](./images/customer-segmentation.png)
+1. **[NYC Capital Budgetting Analysis](#)** (Python, Excel):
+   I analyzed a New York City budget dataset by cleaning, transforming, and visualizing over 11,000 data entries, identifying trends across four fiscal years and five major funding types. This resulted in uncovering that over 60% of projects were funded by non-exempt city sources, helping optimize future budget planning by highlighting funding allocation patterns.
+
+ <img src="https://github.com/user-attachments/assets/2fb232bb-dd59-454b-ba65-6ea6c76d5333" alt="Customer Analysis" width="500"/>
+
+![NYC capital budget ](https://github.com/user-attachments/assets/2fb232bb-dd59-454b-ba65-6ea6c76d5333)
+
    [View Project](link-to-project)
 
-2. **[Sales Performance Dashboard](#)** (Tableau):
+1. **[Sales Performance Dashboard](#)** (Tableau):
    The task was to analyze customer data and create an interactive Tableau dashboard to visualize key insights for decision-making. I led the analysis, visualizing metrics like customer segmentation, purchase frequency, and average transaction size. The dashboard helped identify the top 20% of customers who accounted for 60% of revenue, allowing stakeholders to implement more targeted marketing strategies.
 
       <img src="https://github.com/user-attachments/assets/5e9ce8c1-66a4-4a00-bdd7-fec2ce7daec5" alt="Customer Analysis" width="500"/>
 
    [View the Tableau Dashboard here](https://public.tableau.com/views/CustomerAnalysis_17110391185370/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-3. **[SQL Database Design](#)**:
+2. **[SQL Database Design](#)**:
       The task was to create a fictional business, Creators.Inc, and follow business rules to design a 3NF-compliant relational database. I led the design and implementation of the conceptual and relational database, ensuring it met the business requirements and optimized data handling. By designing the database using business rules and normalizing it to 3NF, I reduced data redundancy by 30% and improved query performance by 40%, resulting in more efficient campaign tracking and better management of employee and brand relationships.
 
     <img src="https://www.dbdesigner.net/wp-content/uploads/2019/07/Adding-Table-Notes-Database-Design-DBDesigner.gif" alt="SQL Database Design" width="500"/>
