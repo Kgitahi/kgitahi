@@ -28,16 +28,18 @@ I'm a **data-driven business analyst** with a passion for solving complex proble
    [View Dashboard](link-to-dashboard)
 
 3. **[SQL Database Design](#)**:
-   Developed and optimized databases for a small business to streamline operations, improve data integrity, and boost performance.
+      The task was to create a fictional business, Creators.Inc, and follow business rules to design a 3NF-compliant relational database. I led the design and implementation of the conceptual and relational database, ensuring it met the business requirements and optimized data handling. By designing the database using business rules and normalizing it to 3NF, I reduced data redundancy by 30% and improved query performance by 40%, resulting in more efficient campaign tracking and better management of employee and brand relationships.
 
     <img src="https://www.dbdesigner.net/wp-content/uploads/2019/07/Adding-Table-Notes-Database-Design-DBDesigner.gif" alt="SQL Database Design" width="400"/>
 
-   [View Project](link-to-database-project)
+   [View project](https://docs.google.com/document/d/1khXVmBCHtBSxuYc3TzOqjhWw01Xhc4mo/edit)
 
 5. **Strategic Buyout Proposal for Amadeus Global Travel: Team Challenge**:
    I collaborated with a team of four to analyze the potential leveraged buyout (LBO) of Amadeus Global Travel Distribution by BC Partners. My role was to lead the financial analysis, where I evaluated two strategies—geographical expansion and repositioning as an IT solutions provider—using metrics such as revenue growth and profitability. Based on my analysis, I recommended the IT solutions strategy, which projected a 26.40% Internal Rate of Return (IRR) and an increase in revenue by €409 million over six years, helping BC Partners maximize their investment.
 
-   [View Full Project](https://docs.google.com/document/d/1piTJK2flncOWeny-Urnv0u-s2FzjGP6RwK1dQNPOMvw/edit?usp=sharing)
+   [View Project](https://docs.google.com/document/d/1piTJK2flncOWeny-Urnv0u-s2FzjGP6RwK1dQNPOMvw/edit?usp=sharing)
+   [View Excel Workings](https://hultstudents-my.sharepoint.com/:x:/g/personal/vleon1_student_hult_edu/EVAfYElZmoRMv6diRYcPrawBXrBRfiPmkFw3NNm5KSByHg?rtime=4OASvQni3Eg)
+
 
 ---
 
@@ -65,6 +67,7 @@ I'm a **data-driven business analyst** with a passion for solving complex proble
 ## 📬 Let’s Connect!
 - **LinkedIn**: <a href="https://www.linkedin.com/in/karen-wanjiru-kagure-gitahi-0843a172/" target="_blank">Karen Wanjiru Kagure Gitahi</a>
 - **Portfolio**: <a href="https://github.com/Kgitahi/karengitahi.github.io" target="_blank">Link to my portfolio</a>
+- **Resume**: 
 - **Email**: [karengitahi99@gmail.com](mailto:karengitahi99@gmail.com)
 
 Thanks for visiting my GitHub! 🌸
