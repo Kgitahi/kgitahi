@@ -39,6 +39,8 @@ I'm a **data-driven business analyst** with a passion for solving complex proble
 5. **Strategic Buyout Proposal for Amadeus Global Travel: Team Challenge**:
    I collaborated with a team of four to analyze the potential leveraged buyout (LBO) of Amadeus Global Travel Distribution by BC Partners. My role was to lead the financial analysis, where I evaluated two strategies—geographical expansion and repositioning as an IT solutions provider—using metrics such as revenue growth and profitability. Based on my analysis, I recommended the IT solutions strategy, which projected a 26.40% Internal Rate of Return (IRR) and an increase in revenue by €409 million over six years, helping BC Partners maximize their investment.
 
+      <img src="https://amadeus.com/content/dam/amadeus/images/en/blog/2023/06/GettyImages-1340723070-emburse3.jpg.transform/large/img.jpg" alt="Customer Analysis" width="500"/>
+
    [View Project](https://docs.google.com/document/d/1piTJK2flncOWeny-Urnv0u-s2FzjGP6RwK1dQNPOMvw/edit?usp=sharing)
    [View Excel Workings](https://hultstudents-my.sharepoint.com/:x:/g/personal/vleon1_student_hult_edu/EVAfYElZmoRMv6diRYcPrawBXrBRfiPmkFw3NNm5KSByHg?rtime=4OASvQni3Eg)
 
