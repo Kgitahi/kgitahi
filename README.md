@@ -23,14 +23,16 @@ I'm a **data-driven business analyst** with a passion for solving complex proble
    [View Project](link-to-project)
 
 2. **[Sales Performance Dashboard](#)** (Tableau):
-   I designed a comprehensive sales dashboard to help teams track performance and forecast trends with ease.
-   ![Sales Dashboard Screenshot](./images/sales-dashboard.png)
-   [View Dashboard](link-to-dashboard)
+   The task was to analyze customer data and create an interactive Tableau dashboard to visualize key insights for decision-making. I led the analysis, visualizing metrics like customer segmentation, purchase frequency, and average transaction size. The dashboard helped identify the top 20% of customers who accounted for 60% of revenue, allowing stakeholders to implement more targeted marketing strategies.
+
+      <img src="https://github.com/user-attachments/assets/5e9ce8c1-66a4-4a00-bdd7-fec2ce7daec5" alt="Customer Analysis" width="500"/>
+
+   [View the Tableau Dashboard here](https://public.tableau.com/views/CustomerAnalysis_17110391185370/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 3. **[SQL Database Design](#)**:
       The task was to create a fictional business, Creators.Inc, and follow business rules to design a 3NF-compliant relational database. I led the design and implementation of the conceptual and relational database, ensuring it met the business requirements and optimized data handling. By designing the database using business rules and normalizing it to 3NF, I reduced data redundancy by 30% and improved query performance by 40%, resulting in more efficient campaign tracking and better management of employee and brand relationships.
 
-    <img src="https://www.dbdesigner.net/wp-content/uploads/2019/07/Adding-Table-Notes-Database-Design-DBDesigner.gif" alt="SQL Database Design" width="400"/>
+    <img src="https://www.dbdesigner.net/wp-content/uploads/2019/07/Adding-Table-Notes-Database-Design-DBDesigner.gif" alt="SQL Database Design" width="500"/>
 
    [View project](https://docs.google.com/document/d/1khXVmBCHtBSxuYc3TzOqjhWw01Xhc4mo/edit)
 
