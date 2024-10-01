@@ -22,8 +22,6 @@ I'm a **data-driven business analyst** with a passion for solving complex proble
 
  <img src="https://github.com/user-attachments/assets/2fb232bb-dd59-454b-ba65-6ea6c76d5333" alt="Customer Analysis" width="500"/>
 
-![NYC capital budget ](https://github.com/user-attachments/assets/2fb232bb-dd59-454b-ba65-6ea6c76d5333)
-
    [View Project](link-to-project)
 
 1. **[Sales Performance Dashboard](#)** (Tableau):
