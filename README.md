@@ -22,7 +22,7 @@ I'm a **data-driven business analyst** with a passion for solving complex proble
 
    <img src="https://github.com/user-attachments/assets/2fb232bb-dd59-454b-ba65-6ea6c76d5333" alt="Customer Analysis" width="500"/>
  
-   [View Project](link-to-project)
+   [View Project](https://github.com/Kgitahi/karengitahi.github.io/blob/main/Capital_Budget_EDA_1_Karen_Gitahi.ipynb)
 
 1. **[Sales Performance Dashboard](#)** (Tableau):
    The task was to analyze customer data and create an interactive Tableau dashboard to visualize key insights for decision-making. I led the analysis, visualizing metrics like customer segmentation, purchase frequency, and average transaction size. The dashboard helped identify the top 20% of customers who accounted for 60% of revenue, allowing stakeholders to implement more targeted marketing strategies.
